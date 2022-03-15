@@ -1,6 +1,6 @@
 ## About the project
 
-Th challange was to build a library of things.
+The challange was to build a library of things.
 The system built is similar to an e-commerce app, but with some extra features related to borrowing, returning, reservation of items and monitoring items' and borrowers usage.
 
 ## Built with
